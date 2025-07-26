@@ -4,7 +4,7 @@ PsiloScope is an end-to-end data analytics and machine learning project designed
 
 This project bridges the gap between visual storytelling and predictive modeling, uncovering hidden patterns and correlations that could support future research in psychopharmacology, bioinformatics, and fungal taxonomy.
 
-⸻
+
 
 🎯 Project Objectives
 	•	Analyze psilocybin concentration across mushroom species using real-world biochemical data
