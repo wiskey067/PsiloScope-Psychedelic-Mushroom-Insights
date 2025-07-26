@@ -70,28 +70,6 @@ Git & GitHub	Version control and project collaboration
 
 
 
-📁 Repository Structure
-
-PsiloScope/
-│
-├── model.ipynb               # ML classification notebook
-├── PsiloScope.twb            # Tableau dashboard workbook
-├── dashboard_link.txt        # Live Tableau link
-├── screenshots/              # Visual samples from the dashboard
-├── README.md                 # You're reading this!
-└── hongos_actualizado_cleaned.xlsx  # Cleaned dataset used in analysis
-
-
-
-
-🧠 Future Enhancements
-	•	Integrate unsupervised learning (e.g., clustering) for species grouping
-	•	Add a Streamlit or Flask-based web app for real-time prediction
-	•	Extend to other psychedelic compounds (e.g., baeocystin, norpsilocin)
-	•	Publish findings in an academic or data science blog format
-
-
-
 👤 Author
 
 Arijit Bhattacharjee
