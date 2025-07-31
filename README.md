@@ -53,9 +53,9 @@ The models effectively predict mushroom species based on a variety of biochemica
 
 
 🧪 Data Insights
-	•	Texture-based energy metrics show meaningful correlations with compound concentrations
-	•	Certain species exhibit unique patterns in psilocybin expression, potentially linked to their biological taxonomy
-	•	Classification models achieved strong performance, suggesting that biochemical properties can be reliable indicators of mushroom type
+• Texture-based energy metrics show meaningful correlations with compound concentrations
+• Certain species exhibit unique patterns in psilocybin expression, potentially linked to their biological taxonomy
+• Classification models achieved strong performance, suggesting that biochemical properties can be reliable indicators of mushroom type
 
 
 
@@ -68,7 +68,23 @@ Machine Learning	Scikit-learn, XGBoost, LightGBM, CatBoost
 Jupyter Notebook	For prototyping and modeling
 Git & GitHub	Version control and project collaboration
 
+📄 Research Paper – Academic Extension of PsiloScope
 
+To formalize the findings of PsiloScope, I authored a peer-review-style research paper titled:
+
+“A Comparative Analysis of Hyperparameter-Tuned Machine Learning Models for Toxicity Prediction in Amanita Mushrooms Using Visual Features”
+
+The paper was developed using the IEEE LaTeX template on Overleaf, and follows a structured format comprising:
+	•	Abstract and Introduction — establishing the motivation and research gap in psilocybin classification
+	•	Related Work — summarizing key studies in psychopharmacology and fungal compound analysis
+	•	Methodology — detailing preprocessing steps, modeling pipelines, and SHAP-based model explainability
+	•	Experimental Results — comparing classifiers (XGBoost, SVM, Random Forest, etc.) on metrics like accuracy, F1-score 
+	•	Visualization Integration — embedding Tableau insights to support visual correlation hypotheses
+	•	Conclusion and Future Work — outlining limitations and directions for expanding chemical feature datasets
+
+All graphs, charts, and performance metrics were generated in Jupyter Notebook, exported as high-resolution figures, and cited within the manuscript. This allowed for a clean and reproducible workflow from raw dataset to published analysis.
+
+The research paper highlights PsiloScope as more than a project—it is a scalable, interdisciplinary toolkit combining AI, visualization, and psychopharmacology into an accessible, academically rigorous format.
 
 👤 Author
 
